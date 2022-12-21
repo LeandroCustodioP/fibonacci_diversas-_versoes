@@ -1,0 +1,3 @@
+Neste repositório existem diversas versões de um script que calcula a sequência de Fibinacci.
+
+Diversos recursos do python foram aplicados desde laços infinitos até recursividade. 
